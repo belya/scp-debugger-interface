@@ -1,0 +1,2 @@
+SCP.Graph = {};
+SCP.Controls = {};

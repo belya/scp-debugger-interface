@@ -1,0 +1,22 @@
+{
+  "sources": 
+  [
+    "src/scp.js",
+    "src/scp-namespaces.js",
+    "src/scp-keynodes.js",
+    "src/scp-model.js",
+    "src/scp-agent.js",
+    "src/scp-bundle.js",
+    "src/graph/scp-graph-view.js",
+    "src/graph/scp-graph-controller.js",
+    "src/graph/scp-graph-subscriber.js",
+    "src/controls/scp-controls-view.js",
+    "src/controls/scp-controls-controller.js",
+    "src/controls/scp-controls-subscriber.js",
+    "src/scp-viewer.js"
+  ],
+  
+  "component": "src/scp-component.js",
+
+  "target": "static/components/js/scp/scp.js"
+}
