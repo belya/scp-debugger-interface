@@ -31,4 +31,8 @@ rrel_operators => nrel_main_idtf: [операторы'] (*
   <- lang_ru;;
 *);;
 ```
+- Run this code in /ostis/sc-web/scripts/
+```bash
+python build_components.py -i -a
+```
 - That's it! Now your debugger is wrapped with a cute interface :)
