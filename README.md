@@ -12,7 +12,7 @@ Follow these steps to install:
 <link rel="stylesheet" type="text/css" href="/static/components/css/scp.css" />
 <script type="text/javascript" charset="utf-8" src="/static/components/js/scp/scp.js"></script>
 ```
-- Add a file to your knowledge base with this content:
+- Add a file with the following content to your knowledge base:
 ```scs
 ui_external_languages
   -> scp_debugger_view;;
