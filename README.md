@@ -24,12 +24,6 @@ scp_debugger_view => nrel_main_idtf: [Отладчик SCP] (*
 format_scp_debugger => nrel_main_idtf: [Формат SCP отладчика] (*
   <- lang_ru;;
 *);;
-
-sc_node_role_relation -> rrel_operators;;
-
-rrel_operators => nrel_main_idtf: [операторы'] (*
-  <- lang_ru;;
-*);;
 ```
 - Run this code in /ostis/sc-web/scripts/
 ```bash
